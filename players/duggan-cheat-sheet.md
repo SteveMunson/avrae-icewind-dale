@@ -16,6 +16,7 @@
 ### Cantrips
 #### Magic Stone
 `!cast "Magic Stone" -t Duggan`
+
 `!attack "Magic Stones" -t`
 
 #### Primal Savagery

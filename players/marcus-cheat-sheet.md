@@ -17,6 +17,7 @@
 
 ## Make a skill check / saving throw
 `!check <skill name>`
+
 `!save <attribute>`
 
 ## See who is in the combat
@@ -30,7 +31,9 @@
 
 ## Take a short or long rest
 * `!g shortrest`
+
 * `!g sr`
+
 * `!g longrest`
 * `!g lr`
 
